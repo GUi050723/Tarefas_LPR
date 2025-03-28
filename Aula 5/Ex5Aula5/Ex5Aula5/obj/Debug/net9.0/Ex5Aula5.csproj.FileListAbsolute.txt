@@ -1,0 +1,14 @@
+C:\Users\guilh\Documents\Ete\lpr\Aula 5\Ex5Aula5\Ex5Aula5\bin\Debug\net9.0\Ex5Aula5.exe
+C:\Users\guilh\Documents\Ete\lpr\Aula 5\Ex5Aula5\Ex5Aula5\bin\Debug\net9.0\Ex5Aula5.deps.json
+C:\Users\guilh\Documents\Ete\lpr\Aula 5\Ex5Aula5\Ex5Aula5\bin\Debug\net9.0\Ex5Aula5.runtimeconfig.json
+C:\Users\guilh\Documents\Ete\lpr\Aula 5\Ex5Aula5\Ex5Aula5\bin\Debug\net9.0\Ex5Aula5.dll
+C:\Users\guilh\Documents\Ete\lpr\Aula 5\Ex5Aula5\Ex5Aula5\bin\Debug\net9.0\Ex5Aula5.pdb
+C:\Users\guilh\Documents\Ete\lpr\Aula 5\Ex5Aula5\Ex5Aula5\obj\Debug\net9.0\Ex5Aula5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Ete\lpr\Aula 5\Ex5Aula5\Ex5Aula5\obj\Debug\net9.0\Ex5Aula5.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Ete\lpr\Aula 5\Ex5Aula5\Ex5Aula5\obj\Debug\net9.0\Ex5Aula5.AssemblyInfo.cs
+C:\Users\guilh\Documents\Ete\lpr\Aula 5\Ex5Aula5\Ex5Aula5\obj\Debug\net9.0\Ex5Aula5.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Ete\lpr\Aula 5\Ex5Aula5\Ex5Aula5\obj\Debug\net9.0\Ex5Aula5.dll
+C:\Users\guilh\Documents\Ete\lpr\Aula 5\Ex5Aula5\Ex5Aula5\obj\Debug\net9.0\refint\Ex5Aula5.dll
+C:\Users\guilh\Documents\Ete\lpr\Aula 5\Ex5Aula5\Ex5Aula5\obj\Debug\net9.0\Ex5Aula5.pdb
+C:\Users\guilh\Documents\Ete\lpr\Aula 5\Ex5Aula5\Ex5Aula5\obj\Debug\net9.0\Ex5Aula5.genruntimeconfig.cache
+C:\Users\guilh\Documents\Ete\lpr\Aula 5\Ex5Aula5\Ex5Aula5\obj\Debug\net9.0\ref\Ex5Aula5.dll
