@@ -1,0 +1,14 @@
+C:\Users\guilh\Documents\Ete\lpr\Aula6\Ex3Aula6\Ex3Aula6\obj\Debug\net9.0\Ex3Aula6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Ete\lpr\Aula6\Ex3Aula6\Ex3Aula6\obj\Debug\net9.0\Ex3Aula6.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Ete\lpr\Aula6\Ex3Aula6\Ex3Aula6\obj\Debug\net9.0\Ex3Aula6.AssemblyInfo.cs
+C:\Users\guilh\Documents\Ete\lpr\Aula6\Ex3Aula6\Ex3Aula6\obj\Debug\net9.0\Ex3Aula6.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Ete\lpr\Aula6\Ex3Aula6\Ex3Aula6\bin\Debug\net9.0\Ex3Aula6.exe
+C:\Users\guilh\Documents\Ete\lpr\Aula6\Ex3Aula6\Ex3Aula6\bin\Debug\net9.0\Ex3Aula6.deps.json
+C:\Users\guilh\Documents\Ete\lpr\Aula6\Ex3Aula6\Ex3Aula6\bin\Debug\net9.0\Ex3Aula6.runtimeconfig.json
+C:\Users\guilh\Documents\Ete\lpr\Aula6\Ex3Aula6\Ex3Aula6\bin\Debug\net9.0\Ex3Aula6.dll
+C:\Users\guilh\Documents\Ete\lpr\Aula6\Ex3Aula6\Ex3Aula6\bin\Debug\net9.0\Ex3Aula6.pdb
+C:\Users\guilh\Documents\Ete\lpr\Aula6\Ex3Aula6\Ex3Aula6\obj\Debug\net9.0\Ex3Aula6.dll
+C:\Users\guilh\Documents\Ete\lpr\Aula6\Ex3Aula6\Ex3Aula6\obj\Debug\net9.0\refint\Ex3Aula6.dll
+C:\Users\guilh\Documents\Ete\lpr\Aula6\Ex3Aula6\Ex3Aula6\obj\Debug\net9.0\Ex3Aula6.pdb
+C:\Users\guilh\Documents\Ete\lpr\Aula6\Ex3Aula6\Ex3Aula6\obj\Debug\net9.0\Ex3Aula6.genruntimeconfig.cache
+C:\Users\guilh\Documents\Ete\lpr\Aula6\Ex3Aula6\Ex3Aula6\obj\Debug\net9.0\ref\Ex3Aula6.dll
