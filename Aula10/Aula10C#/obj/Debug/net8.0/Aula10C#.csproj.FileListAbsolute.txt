@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\lpr2025\Aula10\Aula10\Aula10C#\bin\Debug\net8.0\Aula10C#.exe
+C:\Users\alunos\Desktop\lpr2025\Aula10\Aula10\Aula10C#\bin\Debug\net8.0\Aula10C#.deps.json
+C:\Users\alunos\Desktop\lpr2025\Aula10\Aula10\Aula10C#\bin\Debug\net8.0\Aula10C#.runtimeconfig.json
+C:\Users\alunos\Desktop\lpr2025\Aula10\Aula10\Aula10C#\bin\Debug\net8.0\Aula10C#.dll
+C:\Users\alunos\Desktop\lpr2025\Aula10\Aula10\Aula10C#\bin\Debug\net8.0\Aula10C#.pdb
+C:\Users\alunos\Desktop\lpr2025\Aula10\Aula10\Aula10C#\obj\Debug\net8.0\Aula10C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\lpr2025\Aula10\Aula10\Aula10C#\obj\Debug\net8.0\Aula10C#.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\lpr2025\Aula10\Aula10\Aula10C#\obj\Debug\net8.0\Aula10C#.AssemblyInfo.cs
+C:\Users\alunos\Desktop\lpr2025\Aula10\Aula10\Aula10C#\obj\Debug\net8.0\Aula10C#.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\lpr2025\Aula10\Aula10\Aula10C#\obj\Debug\net8.0\Aula10C#.dll
+C:\Users\alunos\Desktop\lpr2025\Aula10\Aula10\Aula10C#\obj\Debug\net8.0\refint\Aula10C#.dll
+C:\Users\alunos\Desktop\lpr2025\Aula10\Aula10\Aula10C#\obj\Debug\net8.0\Aula10C#.pdb
+C:\Users\alunos\Desktop\lpr2025\Aula10\Aula10\Aula10C#\obj\Debug\net8.0\Aula10C#.genruntimeconfig.cache
+C:\Users\alunos\Desktop\lpr2025\Aula10\Aula10\Aula10C#\obj\Debug\net8.0\ref\Aula10C#.dll
